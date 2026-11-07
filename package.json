@@ -1,0 +1,22 @@
+{
+  "name": "stock-hot-area",
+  "version": "1.0.0",
+  "description": "台股題材資金流向追蹤系統",
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "client": "vite",
+    "server": "node server/index.js",
+    "fetch": "node server/fetch-cli.js",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "node-cron": "^3.0.3"
+  },
+  "devDependencies": {
+    "concurrently": "^9.0.1",
+    "vite": "^6.0.0"
+  }
+}

@@ -1,0 +1,21 @@
+# 相依套件
+node_modules/
+
+# 環境變數
+.env
+.env.*
+!.env.example
+
+# 每日抓取的快取資料（可由 npm run fetch 重新產生）
+data/daily/
+
+# 建置產物
+dist/
+.vite/
+
+# 編輯器 / 系統
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log

@@ -1,0 +1,314 @@
+{
+  "themes": [
+    {
+      "id": "pcb",
+      "name": "PCB/載板",
+      "icon": "🔌",
+      "color": "#4ade80",
+      "stocks": [
+        { "code": "3037", "name": "欣興" },
+        { "code": "8046", "name": "南電" },
+        { "code": "4958", "name": "臻鼎-KY" },
+        { "code": "2313", "name": "華通" },
+        { "code": "2383", "name": "台光電" },
+        { "code": "3189", "name": "景碩" },
+        { "code": "3044", "name": "健鼎" },
+        { "code": "2368", "name": "金像電" },
+        { "code": "6279", "name": "胡連" },
+        { "code": "3152", "name": "璟德" }
+      ]
+    },
+    {
+      "id": "memory",
+      "name": "記憶體",
+      "icon": "💾",
+      "color": "#60a5fa",
+      "stocks": [
+        { "code": "2408", "name": "南亞科" },
+        { "code": "2344", "name": "華邦電" },
+        { "code": "2337", "name": "旺宏" },
+        { "code": "8299", "name": "群聯" },
+        { "code": "3260", "name": "威剛" },
+        { "code": "4967", "name": "十銓" },
+        { "code": "2451", "name": "創見" },
+        { "code": "8150", "name": "南茂" },
+        { "code": "3006", "name": "晶豪科" },
+        { "code": "4943", "name": "康控-KY" }
+      ]
+    },
+    {
+      "id": "thermal",
+      "name": "散熱",
+      "icon": "🌡️",
+      "color": "#f97316",
+      "stocks": [
+        { "code": "3017", "name": "奇鋐" },
+        { "code": "3324", "name": "雙鴻" },
+        { "code": "2421", "name": "建準" },
+        { "code": "6230", "name": "超眾" },
+        { "code": "3338", "name": "泰碩" },
+        { "code": "8996", "name": "高力" },
+        { "code": "2061", "name": "風青" },
+        { "code": "6291", "name": "沛亨" }
+      ]
+    },
+    {
+      "id": "passive",
+      "name": "被動元件",
+      "icon": "⚡",
+      "color": "#a78bfa",
+      "stocks": [
+        { "code": "2327", "name": "國巨" },
+        { "code": "2492", "name": "華新科" },
+        { "code": "3026", "name": "禾伸堂" },
+        { "code": "6173", "name": "信昌電" },
+        { "code": "2478", "name": "大毅" },
+        { "code": "2456", "name": "奇力新" },
+        { "code": "1533", "name": "車王電" },
+        { "code": "2375", "name": "智寶" }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "金融",
+      "icon": "🏦",
+      "color": "#fbbf24",
+      "stocks": [
+        { "code": "2881", "name": "富邦金" },
+        { "code": "2882", "name": "國泰金" },
+        { "code": "2891", "name": "中信金" },
+        { "code": "2884", "name": "玉山金" },
+        { "code": "2885", "name": "元大金" },
+        { "code": "2886", "name": "兆豐金" },
+        { "code": "2887", "name": "台新金" },
+        { "code": "2892", "name": "第一金" },
+        { "code": "2880", "name": "華南金" },
+        { "code": "5880", "name": "合庫金" },
+        { "code": "2883", "name": "開發金" },
+        { "code": "2890", "name": "永豐金" }
+      ]
+    },
+    {
+      "id": "ai_server",
+      "name": "AI伺服器",
+      "icon": "🤖",
+      "color": "#f472b6",
+      "stocks": [
+        { "code": "2382", "name": "廣達" },
+        { "code": "3231", "name": "緯創" },
+        { "code": "2356", "name": "英業達" },
+        { "code": "6669", "name": "緯穎" },
+        { "code": "8210", "name": "勤誠" },
+        { "code": "2059", "name": "川湖" },
+        { "code": "5274", "name": "信驊" },
+        { "code": "3013", "name": "晟銘電" },
+        { "code": "2376", "name": "技嘉" }
+      ]
+    },
+    {
+      "id": "semiconductor",
+      "name": "半導體",
+      "icon": "�chip",
+      "color": "#38bdf8",
+      "stocks": [
+        { "code": "2330", "name": "台積電" },
+        { "code": "2454", "name": "聯發科" },
+        { "code": "3711", "name": "日月光投控" },
+        { "code": "2303", "name": "聯電" },
+        { "code": "3661", "name": "世芯-KY" },
+        { "code": "6770", "name": "力積電" },
+        { "code": "2379", "name": "瑞昱" },
+        { "code": "3443", "name": "創意" },
+        { "code": "5347", "name": "世界" },
+        { "code": "6415", "name": "矽力-KY" },
+        { "code": "2458", "name": "義隆" },
+        { "code": "3529", "name": "力旺" }
+      ]
+    },
+    {
+      "id": "panel",
+      "name": "面板",
+      "icon": "🖥️",
+      "color": "#22d3ee",
+      "stocks": [
+        { "code": "3481", "name": "群創" },
+        { "code": "2409", "name": "友達" },
+        { "code": "6116", "name": "彩晶" },
+        { "code": "6176", "name": "瑞儀" },
+        { "code": "3380", "name": "明泰" },
+        { "code": "6277", "name": "宏正" }
+      ]
+    },
+    {
+      "id": "optical",
+      "name": "光通訊",
+      "icon": "🔗",
+      "color": "#c084fc",
+      "stocks": [
+        { "code": "3081", "name": "聯亞" },
+        { "code": "4908", "name": "前鼎" },
+        { "code": "3363", "name": "上詮" },
+        { "code": "3163", "name": "波若威" },
+        { "code": "6426", "name": "統新" },
+        { "code": "2393", "name": "億光" },
+        { "code": "3714", "name": "富采" },
+        { "code": "4966", "name": "譜瑞-KY" }
+      ]
+    },
+    {
+      "id": "ev",
+      "name": "電動車",
+      "icon": "🚗",
+      "color": "#34d399",
+      "stocks": [
+        { "code": "2308", "name": "台達電" },
+        { "code": "1536", "name": "和大" },
+        { "code": "3665", "name": "貿聯-KY" },
+        { "code": "8255", "name": "朋程" },
+        { "code": "6271", "name": "同欣電" },
+        { "code": "3587", "name": "閎康" },
+        { "code": "2231", "name": "為升" },
+        { "code": "6591", "name": "動力-KY" }
+      ]
+    },
+    {
+      "id": "biotech",
+      "name": "生技醫療",
+      "icon": "💊",
+      "color": "#fb923c",
+      "stocks": [
+        { "code": "6446", "name": "藥華藥" },
+        { "code": "4743", "name": "合一" },
+        { "code": "6472", "name": "保瑞" },
+        { "code": "1795", "name": "美時" },
+        { "code": "8436", "name": "大江" },
+        { "code": "4123", "name": "晟德" },
+        { "code": "6547", "name": "高端疫苗" },
+        { "code": "4147", "name": "中裕" }
+      ]
+    },
+    {
+      "id": "shipping",
+      "name": "航運",
+      "icon": "🚢",
+      "color": "#2dd4bf",
+      "stocks": [
+        { "code": "2603", "name": "長榮" },
+        { "code": "2609", "name": "陽明" },
+        { "code": "2615", "name": "萬海" },
+        { "code": "2618", "name": "長榮航" },
+        { "code": "2610", "name": "華航" },
+        { "code": "2634", "name": "漢翔" },
+        { "code": "2636", "name": "台驊投控" },
+        { "code": "5608", "name": "四維航" }
+      ]
+    },
+    {
+      "id": "steel",
+      "name": "鋼鐵",
+      "icon": "🏗️",
+      "color": "#94a3b8",
+      "stocks": [
+        { "code": "2002", "name": "中鋼" },
+        { "code": "2023", "name": "燁輝" },
+        { "code": "2006", "name": "東鋼" },
+        { "code": "2015", "name": "豐興" },
+        { "code": "2027", "name": "大成鋼" },
+        { "code": "2014", "name": "中鴻" },
+        { "code": "2024", "name": "志聯" },
+        { "code": "9958", "name": "世紀鋼" }
+      ]
+    },
+    {
+      "id": "construction",
+      "name": "營建",
+      "icon": "🏠",
+      "color": "#e879f9",
+      "stocks": [
+        { "code": "2542", "name": "興富發" },
+        { "code": "2548", "name": "華固" },
+        { "code": "5534", "name": "長虹" },
+        { "code": "5522", "name": "遠雄" },
+        { "code": "2501", "name": "國建" },
+        { "code": "2545", "name": "皇翔" },
+        { "code": "2520", "name": "冠德" },
+        { "code": "2530", "name": "華建" }
+      ]
+    },
+    {
+      "id": "tourism",
+      "name": "觀光餐飲",
+      "icon": "🍽️",
+      "color": "#fca5a5",
+      "stocks": [
+        { "code": "2707", "name": "晶華" },
+        { "code": "2731", "name": "雄獅" },
+        { "code": "2727", "name": "王品" },
+        { "code": "2729", "name": "瓦城" },
+        { "code": "2732", "name": "六角" },
+        { "code": "2706", "name": "第一店" },
+        { "code": "2702", "name": "華園" }
+      ]
+    },
+    {
+      "id": "green_energy",
+      "name": "綠能/儲能",
+      "icon": "☀️",
+      "color": "#a3e635",
+      "stocks": [
+        { "code": "6443", "name": "元晶" },
+        { "code": "3576", "name": "聯合再生" },
+        { "code": "6244", "name": "茂迪" },
+        { "code": "8926", "name": "台汽電" },
+        { "code": "1513", "name": "中興電" },
+        { "code": "3027", "name": "盛達" },
+        { "code": "6464", "name": "台數科" },
+        { "code": "1519", "name": "華城" }
+      ]
+    },
+    {
+      "id": "robot",
+      "name": "機器人",
+      "icon": "🦾",
+      "color": "#818cf8",
+      "stocks": [
+        { "code": "2049", "name": "上銀" },
+        { "code": "1597", "name": "直得" },
+        { "code": "2359", "name": "所羅門" },
+        { "code": "1590", "name": "亞德客-KY" },
+        { "code": "4506", "name": "崇友" },
+        { "code": "6284", "name": "佳邦" },
+        { "code": "3708", "name": "上緯投控" }
+      ]
+    },
+    {
+      "id": "networking",
+      "name": "網通",
+      "icon": "📡",
+      "color": "#67e8f9",
+      "stocks": [
+        { "code": "2345", "name": "智邦" },
+        { "code": "6285", "name": "啟碁" },
+        { "code": "5388", "name": "中磊" },
+        { "code": "4906", "name": "正文" },
+        { "code": "2332", "name": "友訊" },
+        { "code": "3704", "name": "合勤控" },
+        { "code": "6245", "name": "立端" }
+      ]
+    },
+    {
+      "id": "copper_clad",
+      "name": "CCL/銅箔基板",
+      "icon": "📋",
+      "color": "#d97706",
+      "stocks": [
+        { "code": "2383", "name": "台光電" },
+        { "code": "3047", "name": "訊舟" },
+        { "code": "6278", "name": "台表科" },
+        { "code": "8039", "name": "台虹" },
+        { "code": "3005", "name": "神基" },
+        { "code": "2349", "name": "錸德" }
+      ]
+    }
+  ]
+}
